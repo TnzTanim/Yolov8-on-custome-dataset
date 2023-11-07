@@ -16,7 +16,7 @@ To get started, simply open the \`train.ipynb\` notebook in Google Colab and fol
 
 To see the project in action, check out the following video on YouTube:
 
-[![Custom Object Detection using YOLOv8](https://img.youtube.com/vi/GCsHceNrlfw/maxresdefault.jpg)](https://www.youtube.com/watch?v=GCsHceNrlfw "Custom Object Detection using YOLOv8")
+[![Watch the video](https://img.youtube.com/vi/cudsV0mM0vw/0.jpg)](https://www.youtube.com/watch?v=cudsV0mM0vw)
 
 ## Credits
 
