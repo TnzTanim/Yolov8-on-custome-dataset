@@ -1,6 +1,6 @@
 # YOLOv8 Object Detection on Custom Dataset
 
-This project demonstrates how to train YOLOv8, a state-of-the-art deep learning model for object detection, on your own custom dataset. The code is written in Python and presented in a Jupyter notebook (\`train.ipynb\`), which is hosted on Google Colab.
+This project demonstrates how to train YOLOv8, a state-of-the-art deep learning model for object detection, on your own custom dataset. Code is written in Python and presented in a Jupyter notebook (\`train.ipynb\`), which is hosted on Google Colab.
 
 ## Prerequisites
 
